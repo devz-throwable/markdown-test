@@ -9,3 +9,9 @@ java projects
 
 #### PureBasic Projects
 purebasic projects
+
+### My Task For Today
+
+- [x] Write the press release
+- [x] Update the website
+- [x] Contact the media
