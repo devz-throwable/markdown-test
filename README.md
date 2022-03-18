@@ -15,3 +15,10 @@ purebasic projects
 - [x] Write the press release
 - [x] Update the website
 - [x] Contact the media
+
+### Sample Table
+
+| Monday | Tuesday |
+| ----------- | ----------- |
+| steak | sinigang |
+| Paragraph | Text |
