@@ -12,9 +12,9 @@ purebasic projects
 
 ### My Task For Today
 
-- [x] Write the press release
-- [x] Update the website
-- [x] Contact the media
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
 
 ### Sample Table
 
